@@ -13,9 +13,9 @@ All solutions are in **Java**, with clean code and TC/SC explained in comments.
 ## 📊 My Progress
 
 | List | Status | Link |
-|------|--------|------|
+|------|--|------|
 | NeetCode 250 | In Progress 🚧 | [View Problems](./NeetCode-250) |
-| Daily Challenges | Active 🕒 | [View Folder](./Daily-Challenges) |
+| Daily Challenges | In Progress 🚧 | [View Folder](./Daily-Challenges) |
 | Company-Wise | Coming Soon 💼 | [Amazon](./Company-Wise/Amazon) |
 
 ---
