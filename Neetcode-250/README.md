@@ -14,7 +14,7 @@ All solutions are in **Java**, with clean code and TC/SC explained in comments.
 
 | List | Status         | Link |
 |------|----------------|------|
-| NeetCode 250 | In Progress 🚧 | [View Problems](./NeetCode-250) |
+| NeetCode 250 | 2/250          | [View Problems](./NeetCode-250) |
 | Daily Challenges | Coming Soon 🚧 | [View Folder](./Daily-Challenges) |
 | Company-Wise | Coming Soon 💼 | [Amazon](./Company-Wise/Amazon) |
 
